@@ -1,0 +1,13 @@
+b797dee8eed38dfcd68493eb920ecf54 *DESCRIPTION
+44e89aaa2e8e58d3f5e6b0a648a4e93c *NAMESPACE
+425b453fba0af60908db2c3abcacdc04 *R/mixcure.r
+4905c62bb377ca2a2fda17c70aa1d960 *data/leukaemia.rda
+447e577723db7a473be471e1472b3078 *man/coef.mixcure.Rd
+d2fa76e4cab55905fe4e6a0eb5f49eb0 *man/leukaemia.Rd
+27755bd12b25d26f13e4053d95f3c95f *man/mixcure-package.Rd
+7eb30cc18fff6db794afddfc2490183e *man/mixcure.Rd
+4751edc8779ba4ed4816c5e5203b87d2 *man/plot.predict.mixcure.Rd
+0ec936b434dd038610eb6a93313e32b5 *man/predict.mixcure.Rd
+5911b91470048d31fcf878a81090fdf9 *man/print.mixcure.Rd
+701208b6e0909c7e931948ae74c7b8f5 *man/residuals.mixcure.Rd
+89a45a5a90e4cc01e3b7cc7a1a03fc9e *man/summary.mixcure.Rd
